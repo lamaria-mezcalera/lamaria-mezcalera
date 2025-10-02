@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Versión inicial (sin node_modules)"
+git branch -M main
+git remote add origin https://github.com/lamaria-mezcalera/lamaria-mezcalera.git
+git push -u origin main
